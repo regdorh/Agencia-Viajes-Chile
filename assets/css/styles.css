@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+article{
+    background-color: black;
+}
+
+.iconosquienessomos{
+    background-color: #00b8ff;
+}
+
+section{
+    background-color: black;
+}
+
+.card{
+    box-shadow: 0px 0px 5px #ccc, 0px 0px 10px #ccc;
+    border-radius: 15px;
+    transition: all 900ms;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
+
+.card-body{
+    background-color: #00b8ff;
+}
+
+.card-body h5{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.card-body p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+footer{
+    background-color: #00b8ff;
+}
+
+.logo h1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+.menu a{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+}
+
+.primertitulo h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.segundotitulo h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.tercertitulo h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.descripcionempresa p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+}
+
+.formulario{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+}
+
+.nombredelpie h3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
